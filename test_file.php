@@ -1,4 +1,3 @@
 <?php
 
-echo "Hello World";
-echo "Second Hello World";
+    echo "Hello World";
